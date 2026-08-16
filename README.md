@@ -1,4 +1,4 @@
-<img width="1194" height="758" alt="image" src="https://github.com/user-attachments/assets/aaff5668-00db-4524-ba4f-52a9ffad7f52" /># 🍕 SQL Pizza Sales Analysis
+# 🍕 SQL Pizza Sales Analysis
 
 ## 📌 Project Overview
 
